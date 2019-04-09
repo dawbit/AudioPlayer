@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.052,C:\Users\user\Desktop\Projekt\Project1PCH1.h=C:\Users\user\Desktop\Projekt\Audio PlayerPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.367,C:\Users\user\Documents\RAD Studio\Projects\Unit1.h=C:\Users\user\Desktop\Projekt\Main_U.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.195,=C:\Users\user\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.156,C:\Users\user\Documents\RAD Studio\Projects\Project1PCH1.h=C:\Users\user\Desktop\Projekt\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.367,C:\Users\user\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\user\Desktop\Projekt\Main_U.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.209,=C:\Users\user\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.065,C:\Users\user\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\user\Desktop\Projekt\Audio Player.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.367,C:\Users\user\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\user\Desktop\Projekt\Main_U.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
