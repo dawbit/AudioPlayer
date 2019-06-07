@@ -1,2 +1,2 @@
 *.cpp linguist-detectable=true
-*.* linguist-detectable=false
+pascal linguist-detectable=false
