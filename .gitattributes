@@ -1,9 +1,7 @@
 *.cpp linguist-detectable=true
 *.res linguist-detectable=false
-*.dfm
-*.vlb
-
-*.#00 linguist-detectable=false
+*.dfm linguist-detectable=false
+*.vlb linguist-detectable=false
 *.ilc linguist-detectable=false
 *.ild linguist-detectable=false 	
 *.ilf linguist-detectable=false 	
