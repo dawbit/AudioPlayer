@@ -1,2 +1,12 @@
 *.cpp linguist-detectable=true
-pascal linguist-detectable=false
+*.res linguist-detectable=false
+*.dfm
+*.vlb
+
+*.#00 linguist-detectable=false
+*.ilc linguist-detectable=false
+*.ild linguist-detectable=false 	
+*.ilf linguist-detectable=false 	
+*.ils linguist-detectable=false 	
+*.map linguist-detectable=false 	
+*.tds linguist-detectable=false
